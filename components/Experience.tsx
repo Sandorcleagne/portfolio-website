@@ -107,8 +107,8 @@ const Experience = () => {
                     Intern learned about
                     <span className="font-bold"> Data Cleaning</span> using{" "}
                     <span className="font-bold">Ms Excel</span> and creating
-                    API's using <span className="font-bold">Python</span> and
-                    frontend development with{" "}
+                    API&apos;s using <span className="font-bold">Python</span>{" "}
+                    and frontend development with{" "}
                     <span className="font-bold">React</span>
                   </Typography>
                 </TimelineContent>
@@ -137,8 +137,8 @@ const Experience = () => {
                   </Typography>
                   <Typography>
                     Wroking as a fulltime MERN Stack developer with the
-                    responsibilities of creating and integrating API's using{" "}
-                    <span className="font-bold">Node JS</span>,
+                    responsibilities of creating and integrating API&apos;s
+                    using <span className="font-bold">Node JS</span>,
                     <span className="font-bold">Express JS</span>, develop
                     frontend using <span className="font-bold">React JS</span>,
                     <span className="font-bold">Next JS</span> and maintain
